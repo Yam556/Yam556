@@ -8,7 +8,7 @@ I'm Yam Khadka, a passionate coder and explorer based in Sydney. I breathe 💻 
 
 ## 🌟 Projects
 
-Explore the galaxies of my current projects:
+Explore some of the galaxies of my current projects:
 
 1. **🚀 Personal Portfolio**
    - Description: Briefly describe the purpose and goals of the project.
