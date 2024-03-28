@@ -4,7 +4,7 @@ Welcome to my GitHub! Here's where the code magic happens that i created! ✨
 
 ## 🚀 About Me
 
-I'm Yam Khadka, a passionate coder and explorer based in Sydney. I breathe 💻 code and dream in algorithms. Outside the terminal, I love 🎸 playing guitar and ☕ sipping on a cup of coffee.
+I'm Yam Khadka, a passionate coder and explorer based in Sydney. I breathe 💻 code and dream in algorithms. Outside the terminal, I love 🎸 playing guitar and ☕ sipping on a cup of coffee and explore travelling.
 
 ## 🌟 Projects
 
