@@ -1,6 +1,6 @@
 # 👋 GitHub Repository 👨‍💻
 
-Welcome to my GitHub space! Here's where the code magic happens! ✨
+Welcome to my GitHub! Here's where the code magic happens that i created! ✨
 
 ## 🚀 About Me
 
