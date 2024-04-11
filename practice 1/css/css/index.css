@@ -1,0 +1,68 @@
+.text{
+    color: white;
+    font-weight: bold;
+    line-height: 2rem;
+    margin-top: 1.5rem;
+    font-size: 1.125rem;
+    box-sizing: border-box;
+    border-width: 0;
+    border-style: solid;
+    border-color: #e5e7eb;
+    margin: 0;
+    display:block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+    font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.bold{
+    color: black;
+
+
+}
+#head{
+font-size: 3.75rem;
+line-height: 1;
+margin-top: 2.5rem;
+text-align: center;
+font-weight: 700;
+color: white;
+font-style: normal;
+letter-spacing: -0.025em;
+margin: 0;
+tab-size: 4;
+font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.color{
+    color: black;
+    text-decoration:inherit;
+    font-weight: 600;
+    font-style: normal;
+    border-width: 0;
+    border-color: #e5e7eb;
+    box-sizing: border-box;
+    line-height: 1.5rem;
+    font-size: 0.875rem;
+    font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.black{
+   background-color: black; 
+}
+.text-color{
+    color: yellow;
+}
+.table{
+    background-color: black;
+        display: grid;
+        grid-template-columns: auto auto; /* Make two columns, one for text and one for image */
+        align-items: center; /* Align items vertically */
+}
+      
+.table head img-property{
+    margin-right: 10px; /* Add some space between text and image */
+}
+ .img-property{
+background-color: white;  
+}
