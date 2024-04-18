@@ -1,0 +1,24 @@
+body{
+    background-color: antiquewhite;
+}
+.box{
+    width: 800px;
+    height: 200px;
+    border: 5px solid white;
+    padding: 10px;
+    margin: 200px 50px 150px 300px;
+    box-sizing:border-box;
+    float: left;
+    background-color: white;
+    -moz-box-align: center;
+    color: black;
+}
+h1{
+text-align: center;
+font-weight: bold;
+border-left: 25px;
+}
+p{
+border-left: 25px;
+text-align: center;
+}
