@@ -1,0 +1,45 @@
+body{
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+
+
+}
+.flag{
+    width: 100px;
+    height: 100px;
+    position: relative;
+
+}
+img {
+    width: calc(100% - 40px);
+    height: calc(); 
+    background-color: brown;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 50%;
+  }
+  
+  flag-body {
+    width: 100%;
+    height: 100%;
+    background-color: black; /* Flag background color */
+    position: relative;
+    animation: wave 2s infinite linear; /* Adjust animation duration as needed */
+  }
+  
+  @keyframes wave {
+    0% {
+      transform: skewY(5deg);
+    }
+    50% {
+      transform: skewY(-5deg);
+    }
+    100% {
+      transform: skewY(5deg);
+    }
+  }
