@@ -1,24 +1,25 @@
 body{
-    background-color: antiquewhite;
+    background-color: bisque;
+    
 }
-.box{
-    width: 800px;
-    height: 200px;
-    border: 5px solid white;
+.navbar{
+    display: flex;
+    list-style:none;
     padding: 10px;
-    margin: 200px 50px 150px 300px;
-    box-sizing:border-box;
-    float: left;
-    background-color: white;
-    -moz-box-align: center;
-    color: black;
+    align-items: center;
+    flex-wrap: wrap;
+    
+
 }
-h1{
-text-align: center;
-font-weight: bold;
-border-left: 25px;
+.navbar li{
+    margin-right: 20px;
+    position: relative;
+    align-items: right;
+    text-align: right;
+    right: 10px;
+    left: 800px;
+    top: 0%;
 }
-p{
-border-left: 25px;
-text-align: center;
+.navbar li:last-child {
+    margin-right: 50px;
 }
