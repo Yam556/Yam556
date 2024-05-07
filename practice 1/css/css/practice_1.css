@@ -1,25 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@600;700&display=swap");
+
 body{
-    background-color: bisque;
-    
+    background-color: rgb(1, 5, 15);
+    font-family: Inter;
 }
-.navbar{
-    display: flex;
-    list-style:none;
-    padding: 10px;
-    align-items: center;
-    flex-wrap: wrap;
-    
+h1{
+    font-size: 35px;
+    font-weight: bold;
+    font-style:italic;
+    padding-left: 45pxpx;
+    box-sizing: border-box;
+    color: blue;
+    word-spacing: 20px;
 
 }
-.navbar li{
-    margin-right: 20px;
-    position: relative;
-    align-items: right;
-    text-align: right;
-    right: 10px;
-    left: 800px;
-    top: 0%;
+p{
+    font-size: 20px;
+    font-weight: normal;
+    text-decoration: none;
+    color: rgb(14, 77, 29);
+    padding-top: 40px;
 }
-.navbar li:last-child {
-    margin-right: 50px;
+.navbar-items{
+    text-decoration: none;
 }

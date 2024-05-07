@@ -66,3 +66,25 @@ font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe U
  .img-property{
 background-color: white;  
 }
+.table p{
+    padding: 15px;
+    box-sizing: border-box;
+}
+.button{
+    background-color: #FFCC00;
+    
+    color: black;
+    padding: 10px;
+    margin-right: 10px;
+    margin-left: 15px;
+}
+.button-l{
+    color: #FFCC00;
+    text-decoration: non;
+}
+.button, .button-l{
+    text-decoration: none;
+    border-radius: 10%;
+    
+
+}
